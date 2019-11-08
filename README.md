@@ -1,2 +1,2 @@
 # RS
-Contains implementation of different algorithms in Collborative filtering for recommentaion systems.
+Contains implementation of different algorithms in Collborative filtering for recommendation systems.
